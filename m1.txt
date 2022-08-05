@@ -3,3 +3,7 @@ this is fix for bug
 def thisfix():
   if 'string' in master:
     print("yes its there", lines)
+
+def this_test_branch():
+	for i in range(len(nums)):
+		print("nums")
