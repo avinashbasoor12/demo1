@@ -1,5 +1,6 @@
 this is fix for bug
-
+def into():
+	this is 
 def thisfix():
   if 'string' in master:
     print("yes its there", lines)
